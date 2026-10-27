@@ -22,4 +22,4 @@ Pantone 291 C approximation: `#A7D8F0`.
 
 ## Contact form
 
-The contact form posts to FormSubmit and sends submissions to `office@a-1backflowspecialties.com`. The first submission may require email confirmation from FormSubmit before messages begin forwarding.
+The contact form posts to FormSubmit and sends submissions to the specified email. The first submission may require email confirmation from FormSubmit before messages begin forwarding.
